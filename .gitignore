@@ -1,0 +1,48 @@
+# Ignore the target directory, which is where compiled files go
+*/target/
+
+# Ignore build artifacts
+**/*.rs.bk
+
+# Ignore lock file, unless you're building an application and want to ensure reproducible builds
+# Uncomment the next line if you want to ignore Cargo.lock
+# Cargo.lock
+
+# Ignore Cargo's package registry directory
+/.cargo/
+
+# Ignore editor and IDE files
+# for Visual Studio Code
+.vscode/
+# for IntelliJ IDEA
+.idea/
+# for Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Ignore backup files
+*.bak
+*.tmp
+*.swp
+
+# Ignore generated documentation
+/target/doc/
+
+# Ignore build scripts output
+/build.rs
+
+# Ignore Rust Language Server (RLS) files
+/rls/
+
+# Ignore node_modules for projects that may have a front-end
+/node_modules/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore other temporary files
+*.log
+*.tmp
+*.temp
+
