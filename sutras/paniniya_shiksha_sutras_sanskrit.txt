@@ -17,37 +17,378 @@
 मनः कायाग्निमाहन्ति सः प्रेरयति मारुतम् ॥ ६॥
 
 मारुस्तूरसिचरन्मन्द्रं जनयति स्वरम् ।
+अथ शिक्षां प्रवक्ष्यामि पाणिनीयं मतं यथा ।
+शास्त्रानुपूर्वं तद्विदाद्यथोक्तं लोकवेदयोः ॥ १॥
+
+Translation:
+Now I shall explain the education according to the doctrine of Pāṇini, systematically as taught in the Vedas and in common usage.
+
+प्रसिद्धमपि शब्दार्थमविज्ञातमबुद्धिभिः ।
+पुनर्व्यक्तीकरिष्यामि वाच उच्चारणे विधिम् ॥ २॥
+
+Translation:
+Even though the meaning of words is well-known, it remains unknown to the unwise. I shall clarify again the rules of pronunciation.
+
+त्रिषष्टिश्चतुःषटिर्वा वर्णाः शम्भुमतेमताः ।
+प्राकृते संस्कृते चापि स्वयं प्रोक्ताः स्वयम्भुवा ॥ ३॥
+
+Translation:
+According to the doctrine of Śambhu (Lord Shiva), the sixty-three or sixty-four phonemes, as proclaimed by Him, are present both in Prakrit (natural language) and Sanskrit.
+
+स्वरा विंशतिरेकश्च स्पर्शानां पञ्चविंशतिः ।
+यादयश्च स्मृता ह्यष्टौ चत्वारश्च यमाः स्मृताः ॥ ४॥
+
+Translation:
+There are twenty-one vowels, twenty-five consonants, eight semi-vowels, and four sibilants remembered.
+
+अनुस्वारो विसर्गश्च ꣳक-पौ चापि पराश्रितौ ।
+दुःस्पृष्टो चापि विज्ञेयो ॡकारो प्लुत एव सः ॥ ५॥
+
+Translation:
+Anusvāra and Visarga, as well as the letters ṅa, ka, and pa are also included. The difficult to pronounce letter 'ḷ' should be known as protracted (long).
+
+आत्मा बुद्ध्या समेत्यार्थान्मनो युङ्क्ते विवक्षया ।
+मनः कायाग्निमाहन्ति सः प्रेरयति मारुतम् ॥ ६॥
+
+Translation:
+The soul, with the help of intellect, joins the intended meanings with the mind. The mind strikes the bodily fire, which then propels the wind (breath).
+
+मारुस्तूरसिचरन्मन्द्रं जनयति स्वरम् ।
 प्रातःसवनयोगं तं छन्दो गायत्रमाश्रितम् ॥ ७॥
+
+Translation:
+The wind (breath) moving through the throat produces the low sound. This is associated with the morning chanting and the Gāyatrī meter.
 
 कण्ठे माध्यन्दिनयुगं मध्यमं त्रैष्टुभानुगम् ।
 तारं तार्तीयसवनं शीर्षण्यं जागतानुगतम् ॥ ८॥
 
+Translation:
+The middle sound corresponds to the midday chanting and the Trishtubh meter. The high sound corresponds to the evening chanting and the Jagatī meter.
+
 सोदीर्णो मूर्ध्न्यभिहतो वक्रमापद्य मारुतः ।
 वर्णाञ्जनयते तेषां विभागः पञ्चधा स्मृतः ॥ ९॥
 
+Translation:
+The wind (breath), striking the palate and moving crookedly, produces the phonemes. Their division is remembered to be fivefold.
+
 स्वरतः कालतः स्थानात्प्रयत्नादनुप्रदानतः ।
-इति वर्णविदः प्राहुर्निपुणं तन्निबोधत ॥ १०॥ ॥२॥
+इति वर्णविदः प्राहुर्निपुणं तन्निबोधत ॥ १०॥
+
+Translation:
+According to intonation, duration, place of articulation, effort, and secondary factors, this is explained by the experts in phonetics. Understand it carefully.
 
 उदातानुदात्तश्च स्वरितश्च स्वरास्त्रयः ।
 ह्रस्वो दीर्घः प्लुत इति कालतो नियमा अचि ॥ ११॥
 
+Translation:
+There are three intonations: Udātta (raised), Anudātta (not raised), and Svarita (mixed). According to duration, vowels are classified as short, long, and prolated.
+
 उदात्ते निषादगान्धारावनुदात्त ऋषभधैवतौ ।
 स्वरित्प्रभवा ह्येते षड्जमध्यमपञ्चमाः ॥ १२॥
 
-अष्टौ स्थानानि वर्णानामुर: कण्ठः शिरस्तथा ।
+Translation:
+In Udātta, the notes are Nishāda and Gandhāra. In Anudātta, they are Rishabha and Dhaivata. The remaining notes, Shadja, Madhyama, and Panchama, belong to Svarita.
+
+अष्टौ स्थानानि वर्णानामुरः कण्ठः शिरस्तथा ।
 जिह्वामूलं च दन्ताश्च नासिकोष्ठौ च तालु च ॥ १३॥
+
+Translation:
+There are eight places of articulation for phonemes: chest, throat, head, root of the tongue, teeth, nose, lips, and palate.
 
 ओभावश्च विवृत्तिश्च शषसा रेफ एव च ।
 जिह्वामूलमुपध्मा च गतिरष्टविधोष्मणः ॥ १४॥
 
+Translation:
+Both voiced and voiceless sounds, the sibilants ṣa, ṣa, sa, the letter ra, the semi-vowel y, and the labial aspirates are the eight types of breathy sounds.
+
 ययोभावप्रसमुकारादिपरं पदम् ।
-स्वरान्तं तादृशं विद्यादन्यद्व्यक्तमूष्मणः ॥ १५॥  ॥३॥
+स्वरान्तं तादृशं विद्यादन्यद्व्यक्तमूष्मणः ॥ १५॥
+
+Translation:
+A word beginning with a breathy sound, an intervening vowel, or ending in a vowel should be understood as having a similar pronunciation, but distinguishable from other voiced or breathy sounds.
 
 हकारं पञ्चमैर्युक्तमन्स्थाभिश्च संयुतम् ।
 औरस्यं तं विजानीयात्कठ्यमाहुरसंयुतम् ॥ १६॥
 
+Translation:
+The letter ha, when combined with the fifth consonants and nasal sounds, should be known as the labial sound. This is declared by the knowledgeable as an uncombined sound.
+
 कण्ठ्यावहाविचुयशास्तालव्या ओष्ठजावुपू ।
 स्युर्मूर्धन्या ऋटुरषा दन्त्या ळ्सितुलसाः स्मृताः ॥ १७॥
+
+Translation:
+The guttural sounds are ka and ga, the palatals are ca and ja, the retroflex sounds are ṭa and ḍa, the dentals are ta and da, and the labials are pa and ba.
+
+जिह्वामूले तु कुः प्रोक्तो दन्त्योष्ठो वः स्मृतो बुधैः ।
+एऐ तु कण्ठतालव्या ओऔ तु कण्ठोष्ठजौ स्मृतौ ॥ १८॥
+
+Translation:
+The sound ka is produced at the root of the tongue, the sound va is produced between the teeth and lips. The vowels e and ai are gutturo-palatal, and o and au are gutturo-labial.
+
+अर्धमात्रा तु कण्ठ्या स्यादेकारैकारयोर्भवेत् ।
+ओकारौकारयोर्मात्रा तयोर्विवृतसंवृतम् ॥ १९॥
+
+Translation:
+The half-mātrā duration is for the gutturals e and ai. The mātrā duration is for the guttural vowels o and au, which are either open or closed.
+
+संवृतं मात्रिकं ज्ञेयं विवृतं तु द्विमात्रिकम् ।
+घोषा वा संऋताः सर्वे अघोषा विवृतः स्मृताः ॥ २०॥
+
+Translation:
+A closed syllable is known to have one mātrā duration, while an open syllable has two mātrā duration. All voiced sounds are considered closed, and voiceless sounds are considered open.
+
+स्वराणामूष्मणां चैव विवृतं करणं स्मृतम् ।
+तेभ्योऽपि विवृतावेङौ ताभ्यामैचो तथैव च ॥ २१॥
+
+Translation:
+The articulation of vowels and breathy sounds is considered open. Among them, e and o are open sounds, as well as ai and au.
+
+अनुस्वार यमानां च नासिका स्थानमुच्यते ।
+अयोगवाहा विज्ञेया आश्रयस्थानभागिनः ॥ २२॥
+
+Translation:
+The place of articulation for Anusvāra and Yama is said to be the nose. They are known as "unspeakable" sounds and share the place of articulation.
+
+अलाबुवीणानिर्घोषो दन्तमूल्यस्वराननु ।
+अनुस्वारस्तु कर्तव्यो नित्यम् होः शषसेषु च ॥ २३॥
+
+Translation:
+Anusvāra should be produced like the sound of a water-drum and should follow the dental sounds and vowels. It should always be used with the letters ha, ṣa, and sa.
+
+अनुस्वारे विवृत्यां तु विरामे चाक्षरद्वये ।
+द्विरोष्ठ्यौ तु विगृह्णीयाद्यत्रोकारवकारयोः ॥ २४॥
+
+Translation:
+In the case of Anusvāra, if there is a pause or two letters, the bilabials o and va should be pronounced separately.
+
+व्याघ्री यथा हरेत्पुत्रान्दन्ताभ्यां न तु पीडयेत् ।
+भीता पतनभेदाभ्यां तद्वद्वर्णान्प्रयोजयेत् ॥ २५॥
+
+Translation:
+Just as a tigress carries her cubs gently with her teeth without hurting them, similarly, one should pronounce the phonemes without causing any stress or distortion.
+
+यथा सौराष्ट्रिका नारी तक्रꣳ इत्यभिभाषते ।
+एवम् रङ्गाः प्रयोक्तव्याः खे अराꣳ इव खेदया ॥ २६॥
+
+Translation:
+Just as a woman from Saurashtra region says "takraṃ," similarly, the phonemes should be used like spokes in a wheel without causing strain.
+
+रङ्गवर्णं प्रयुञ्जीरन्नो ग्रसेत्पूर्वमक्षरम् ।
+दीर्घस्वरं प्रयुञ्जीयात्पश्चान्नासिक्यमाचरेत् ॥ २७॥
+
+Translation:
+One should use the phonemes in a sequence without swallowing the previous letter. The long vowels should be pronounced first and then followed by the nasal sounds.
+
+हृदये चैकमात्रस्त्वर्धमात्रस्तु मूर्धनि ।
+नासिकायां तथार्धं च रङ्गस्यैवं द्विमात्रता ॥ २८॥
+
+Translation:
+In the heart, the duration is one mātrā, in the head it is half a mātrā. In the nose, it is also half a mātrā, thus the duration of the phoneme is two mātrās.
+
+हृदयादुत्करे तिष्ठन्कांस्येन समनुस्वरम् ।
+मार्दवं च द्विमात्रं च जघन्वाꣳ इति निदर्शनम् ॥ २९॥
+
+Translation:
+Standing in the heart, the phoneme with a nasal sound, with a duration of two mātrās, should be produced softly, like the sound of a bell.
+
+मध्ये तु कम्पयेत्कम्पमुभौ पार्श्वौ समौ भवेत् ।
+सरङ्गं कम्पयेत्कम्पं रथीवेति निदर्शनम् ॥ ३०॥
+
+Translation:
+In the middle, the phoneme should be vibrated equally on both sides, just as a charioteer makes the chariot vibrate.
+
+एवं वर्णाः प्रयोक्तव्या नाव्यक्ता न च पीडिताः ।
+सम्यग्वर्णप्रयोगेन ब्रह्मलोके महीयते ॥ ३१॥
+
+Translation:
+In this way, phonemes should be used correctly, without being unclear or stressed. By correctly using phonemes, one attains greatness in the realm of Brahman.
+
+गीती शीघ्री शिरःकम्पी तथा लिखितपाथकः ।
+अनर्थज्ञोऽल्पकण्ठश्च षडेते पाठकाधमाः ॥ ३२॥
+
+Translation:
+A singer, a fast reader, one who moves his head, a writer, one who does not understand meanings, and one with a weak voice are the six inferior readers.
+
+माधुर्यमक्षरव्यक्तिः पदच्छेदस्तु सुस्वरः ।
+धैर्यं लयसमर्थं च षडेते पाठका गुणाः ॥ ३३॥
+
+Translation:
+Sweetness, clear pronunciation of letters, proper separation of words, good intonation, patience, and rhythm are the six qualities of a good reader.
+
+शङ्कितं भीतमुत्कृष्टमव्यक्तमनुनासिकम् ।
+काकस्वरं शिरसि गतं तथ स्थानविवर्जितम् ॥ ३४॥
+
+Translation:
+Fearful, frightened, excessive, unclear, nasal, crow-like voice, and head voice are to be avoided while reading.
+
+उपांशु दष्टं त्वरितं निरस्तं विलम्बितं गद्गदितं प्रगीतम् ।
+निष्पीडितं ग्रस्तपदाक्षरं च वदेन्न न दीनं न तु सानुनास्यम् ॥ ३५॥
+
+Translation:
+Whispered, biting, hurried, omitted, delayed, stammering, sung, stressed, swallowed words should not be used. One should not sound feeble or nasal while speaking.
+
+प्रातः पठेन्नित्यमुरःस्थितेन स्वरेण शार्दूलरुतोपमेन ।
+मध्यन्दिने कण्ठगतेन चैव चक्राह्वसङ्कूजितसन्निभेन ॥ ३६॥
+
+Translation:
+One should always read in the morning with a chest voice resembling a tiger's roar. At midday, one should read with a throat voice similar to the sound of a circle.
+
+तारं तु विद्यात्सवनं तृतीयं शिरोगतं तच्च सदा प्रयोज्यम् ।
+मयूरहंसान्यमृतस्वराणां तुल्येन नादेन शिरःस्थितेन ॥ ३७॥
+
+Translation:
+The third savana should be known as the high voice and always used. It should resemble the sound of peacocks and swans and have a head voice.
+
+अचोऽस्पृष्टा गणस्त्वीषन्नमस्पृष्टा शलः स्मृताः ।
+शेषाः स्पृष्टा हलः प्रोक्तानिबोचानुप्रदानतः ॥ ३८॥
+
+Translation:
+The group of letters which are not touched are the vowels. The slightly touched are the sibilants. The remaining consonants are the touched letters, classified according to their production.
+
+ञमोनुनासिका नह्रो नादिनो हझषः स्मृताः ।
+ईषन्नादा यणो जश्च श्वासिनस्तु खफादयः ॥ ३९॥
+
+Translation:
+The nasal sounds are ña, ma, na. The voiced sounds are ha, jha, ṣa. The slightly voiced are ya, ṇa, ja. The aspirated sounds are kha, pha, etc.
+
+ईषत्छ्वासांश्चरो विद्याद्गोर्धामैतत्प्रचक्षते ।
+दाक्षीपुत्रः पाणिनिना येनेदं व्यापितं भुवः ॥ ४०॥
+
+Translation:
+One should know the slightly aspirated sounds. This is declared by the son of Dakṣa (Pāṇini) who spread this knowledge throughout the world.
+
+छन्दः पादौ तु वेदस्य हस्तः कल्पोऽथ पठ्यते ।
+ज्योतिषामयनं चक्षुर्निरुक्तं श्रोत्रमुच्यते ॥ ४१॥
+
+Translation:
+Meter (chandas) is the feet of the Vedas, Kalpa is said to be the hands, Jyotisha is the eyes, and Nirukta is the ears.
+
+शिक्षा प्राणं तु वेदस्य मुखं व्याकरणं स्मृतम् ।
+तस्मात्साङ्गमधीत्येव ब्रह्मलोके महीयते ॥ ४२॥
+
+Translation:
+Phonetics (śikṣā) is the breath of the Vedas, and grammar is said to be the mouth. Therefore, one who studies with all the limbs attains greatness in the realm of Brahman.
+
+उदात्तमाख्याति वृषोऽङ्गुलीनां प्रदेशिनीमूलनिविष्टमूर्धा ।
+उपान्तमध्ये स्वरितं धृतं च कनिष्ठिकायामनुदात्तमेव ॥४३॥
+
+Translation:
+The bull signifies Udātta, the raised tone, with the head placed at the base of the forefinger. Svarita, the mixed tone, is held in the middle, and Anudātta, the low tone, is held in the little finger.
+
+उदात्तं प्रदेशिनीं विद्यात्प्रचयो मध्यतोङ्गुलीम् ।
+निहतं तु कनिष्ठिक्यां स्वरितोपकनिष्ठिकाम् ॥ ४४॥
+
+Translation:
+One should know the Udātta tone as the forefinger, the mixed tone in the middle finger, and the low tone in the little finger.
+
+अन्तोदात्तमाद्युदत्तमुदात्तमनुदातं नीचस्वरितम् ।
+मध्योदात्तं स्वरितं द्व्युदात्तं त्र्युदात्तमिति नवपदशय्या ॥ ४५॥
+
+Translation:
+The final tone is Udātta, the initial tone is Anudātta, the middle tone is Svarita. These are the nine positions of tones.
+
+अग्निः सोमः प्रवो वीर्यं हविषं स्वर्बृहस्पतिरिन्द्राबृहस्पती ।
+अग्निरित्यन्तोदात्तं सोम इत्याद्युदत्तं प्रेत्युदात्तं दीर्घं नीचस्वरितम् ॥ ४६॥
+
+Translation:
+Agni, Soma, heroism, offering, heaven, Bṛhaspati, and Indra-Bṛhaspati are tones. Agni is the final Udātta, Soma is the initial Anudātta, and the long is the low Svarita.
+
+हविषां मध्योदात्तंस्वरिति स्वरितं बृहस्पतिरिति ।
+द्व्युदात्तमिन्द्राबृहस्पती इति त्रुदात्तम् ॥ ४७॥
+
+Translation:
+The middle Udātta is the offering, the mixed tone is Bṛhaspati, the double Udātta is Indra-Bṛhaspati, and the triple Udātta is Trudātta.
+
+अनुदात्तो हृदि ज्ञेयो मूर्ध्न्युदात्त उदाहृतः ।
+स्वरितः कर्णमूलीयः सर्वास्ये प्रचयः स्मृतः ॥ ४८॥
+
+Translation:
+Anudātta should be known in the heart, Udātta is said to be in the head, Svarita is at the root of the ears, and all these are considered as the accumulation.
+
+चाषस्तु वदते मारां द्विमात्रो चैव वायसः ।
+शिखी रौति त्रिमात्रस्तु नकुलस्त्वर्धमात्रकः ॥ ४९॥
+
+Translation:
+The bird calls 'marā' with two mātrās, the crow calls with three mātrās, and the mongoose calls with half a mātrā.
+
+कुतीर्थादागतं दग्धमपवर्णं च भक्षितम् ।
+न तस्य पठे मोक्षोऽस्ति पापार्हरिव किल्बिषात् ॥ ५०॥
+
+Translation:
+That which is burnt and has come from a bad place and is eaten without proper articulation, has no liberation in recitation, like a sinner due to his sins.
+
+सुतिर्थदागतं व्यक्तं स्वाम्नाय्यं सुव्यवस्थितम् ।
+सुस्वरेण सुवक्रेण प्रयुक्तं ब्रह्म राजते ॥ ५१॥
+
+Translation:
+That which comes from a good place, articulated clearly, well-arranged in the tradition, used with proper tone and articulation, shines like Brahman.
+
+मन्त्रो हीनः स्वरतो वर्णतो वा मिथ्याप्रयुक्तो न तदर्थमाह ।
+स वग्वज्रो यजमानं हिनस्ति यथेन्द्रशत्रुः स्वरतोऽपराधात् ॥ ५२॥
+
+Translation:
+A mantra which is deficient in intonation or letters, or misused, does not produce the intended result. It strikes the performer like a thunderbolt due to the fault in intonation, like Indra's enemy.
+
+अनक्षरं हतायुष्यं विस्वरं व्याधिपीडितम् ।
+अक्षता शस्त्ररूपेण वज्रं पतति मस्तके ॥ ५३॥
+
+Translation:
+Incorrect articulation, wrong tone, and afflicted with disease, the unbroken words fall like a thunderbolt on the head in the form of a weapon.
+
+हस्तहीनं तु योऽधीते स्वरवर्णविवर्जितम् ।
+ऋग्यजुःसामभिर्दग्धो वियोनिमधिगच्छति ॥ ५४॥
+
+Translation:
+One who reads without proper hand gestures and without correct intonation and letters, burns with Rig, Yajur, and Sama Vedas and reaches a bad destination.
+
+हस्तेन वेदं योऽधीते स्वरवर्णाथसंयुतम् ।
+ऋग्यजुःसामभिः पूतो ब्रह्मलोके महीयते ॥ ५५॥
+
+Translation:
+One who reads the Vedas with proper hand gestures, intonation, and letters, purified by Rig, Yajur, and Sama Vedas, attains greatness in the realm of Brahman.
+
+शङ्करः शङ्करीं प्रादाद्दाक्षीपुत्रायधीमते ।
+वाङ्मयेभ्यः समाहृत्य देवीं वाचमिति स्थितिः ॥ ५६॥
+
+Translation:
+Shankara, the wise son of Daksha, gave the divine speech, having collected it from the various texts, to the learned.
+
+येनाक्षरसमाम्नायमधिगम्य महेश्वरात् ।
+कृत्स्नं व्याकरणं प्रोक्तं तस्मै पाणिनये नमः ॥ ५७॥
+
+Translation:
+Having learned the complete alphabet from Maheshwara, and having taught the entire grammar, salutations to that Pāṇini.
+
+येन धौता गिरः पुंसां विमलैः शब्दवारिभिः ।
+तमश्चाज्ञानजं भिन्नं तस्मै पाणिनये नमः ॥ ५८॥
+
+Translation:
+By whom the speech of men was purified with the pure waters of words, and the darkness of ignorance was destroyed, salutations to that Pāṇini.
+
+अज्ञानान्धस्य लोकस्य ज्ञानाञ्जनशलाकया ।
+चक्षुरुन्मीलितं येन तस्मै पाणिनये नमः ॥ ५९॥
+
+Translation:
+By whom the eyes of the ignorant world were opened with the collyrium stick of knowledge, salutations to that Pāṇini.
+
+त्रिनयनमभिमुखनिःसृतामिमां
+य इह पठेत्प्रयतश्च सदा द्विजः ।
+स भवति धनधान्यपशुपुत्रकीर्तिमा-
+नतुलं च सुखं समश्नुते दिवीति दिवीति ॥ ६०॥
+
+Translation:
+Whoever reads this diligently always, that Brahmin becomes wealthy, famous, and attains unparalleled happiness and prosperity.
+
+अथ शिक्षामात्मोदात्तश्च हकारं स्वराणां यथा
+गीत्यचोऽस्पृष्टोदात्तं चाषस्तु शङ्कर एकादश
+
+Translation:
+Now, the rules of phonetics, intonation of vowels, as told by Shankara.
+
+॥ इति वेदाङ्गनासिका अथवा पाणिनीयशिक्षा समाप्ता ॥
+
+Translation:
+Thus ends the Veda's phonetics, also known as Pāṇini's Śikṣā.
 
 जिह्वामूले तु कुः प्रोक्तो दन्त्योष्ठो वः स्मृतो बुधैः ।
 एऐ तु कण्ठतालव्या ओऔ तु कण्ठोष्ठजौ स्मृतौ ॥ १८॥
